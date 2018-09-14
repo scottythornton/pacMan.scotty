@@ -176,7 +176,7 @@ namespace pacMan.scotty
 
             g.Clear(Color.Black);
             g.DrawLine(drawPen, 20, 20, 300, 20);
-            g.DrawLine(drawPen, 20, 100, 200, 100);
+            g.DrawLine(drawPen, 20, 150, 200, 100);
             g.DrawLine(drawPen, 300, 15, 300, 300);
             g.DrawLine(drawPen, 200, 95, 200, 300);
 
